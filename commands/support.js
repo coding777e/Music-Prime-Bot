@@ -41,7 +41,7 @@ module.exports = {
               url: 'https://discord.gg/2nkutxc9hK'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)
-            .setImage('https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=663956f7&is=66380577&hm=3b3c19a11adcb979517a133f2907f671305d23f1f5092cf7df043e6d5cab07bc&')
+            .setImage('https://cdn.discordapp.com/attachments/1241154542758920334/1241443347499974778/desktop-wallpaper-anime-city-lights-night-rain-umbrella-sky-artist.jpg?ex=664a37b6&is=6648e636&hm=da6eff6241d35bfc984ee7837b9a4694ab30026d39c49739e5345e542a6e1b70&')
             .setTimestamp();
 
       return interaction.reply({ embeds: [embed] });
